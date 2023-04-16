@@ -1,4 +1,10 @@
 # The-Best-Time-To-Flight
+
+Introduction
+	Flight delay is a global issue that affects the aviation industry, with the average delay time being approximately 42 minutes in 2021. There are various factors that contribute to flight delay, including weather conditions, technical issues, air traffic congestion, crew unavailability, and airport infrastructure problems. The COVID-19 pandemic has also exacerbated the problem, leading to reduced capacity and operational challenges for airlines. Flight delay can have significant impacts on both airlines and passengers, resulting in financial losses, missed connections, and travel disruptions. To address this issue, airlines have implemented various measures such as improving operational efficiency and investing in new technology.
+	Using statistical analysis in the process of analyzing flight delay is essential because it provides a quantitative approach to understanding the factors that contribute to delay. Statistical analysis can help identify patterns and trends in the data, which can provide valuable insights into the root causes of delay. By using statistical models, analysts can identify the most significant variables that contribute to flight delay, such as weather conditions, air traffic congestion, and technical issues. Additionally, statistical analysis can help airlines optimize their operations by identifying areas where they can improve efficiency and reduce delays. Overall, statistical analysis is a powerful tool that can help airlines and industry stakeholders make data-driven decisions to improve the reliability and efficiency of air travel.
+
+
 Conclusions
 The best time to fly to avoid delays is in June on Thursday and Friday and at 5 am.
 Old planes are not the cause of flight delays.
