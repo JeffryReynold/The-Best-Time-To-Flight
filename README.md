@@ -5,7 +5,8 @@ Introduction
 	Using statistical analysis in the process of analyzing flight delay is essential because it provides a quantitative approach to understanding the factors that contribute to delay. Statistical analysis can help identify patterns and trends in the data, which can provide valuable insights into the root causes of delay. By using statistical models, analysts can identify the most significant variables that contribute to flight delay, such as weather conditions, air traffic congestion, and technical issues. Additionally, statistical analysis can help airlines optimize their operations by identifying areas where they can improve efficiency and reduce delays. Overall, statistical analysis is a powerful tool that can help airlines and industry stakeholders make data-driven decisions to improve the reliability and efficiency of air travel.
 
 
-Conclusions
+Conclusions:
+
 The best time to fly to avoid delays is in June on Thursday and Friday and at 5 am.
 Old planes are not the cause of flight delays.
 No significant changes to airplane flight routes despite an increase in the number of users.
@@ -13,7 +14,8 @@ The main causes of flight delays are Origin_long, Month, Origin_lat while Distan
 Linear regression shows no significant relationship with distance, dest_lat and CRSElapsedTime.
 
 
-Recommandation
+Recommandation:
+
     • Based on the results of statistical tests where one of the causes of flight delays is the month of the flight. so we recommend that business people and tourists can schedule activities that will use airplane transportation in June our day or Friday and flight at 5 am.
     • Improve scheduling algorithms: Based on the analysis of the dataset, the best time to fly to minimize delays is in June on Thursday and Friday and at 5 am. Airlines can use this information to optimize their flight schedules and reduce delays.
     • Improve airport infrastructure: The analysis shows that the variables Origin_long and Origin_lat are significant factors in causing flight delays. This suggests that airports with poor infrastructure or congested runways may contribute to delays. Improving airport infrastructure, such as building more runways or expanding terminal capacity, could help reduce delays.
