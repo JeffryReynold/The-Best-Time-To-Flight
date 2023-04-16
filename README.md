@@ -1,10 +1,10 @@
 # The-Best-Time-To-Flight
 Conclusions
-    #• The best time to fly to avoid delays is in June on Thursday and Friday and at 5 am.
-    • Old planes are not the cause of flight delays.
-    • No significant changes to airplane flight routes despite an increase in the number of users.
-    • The main causes of flight delays are Origin_long, Month, Origin_lat while Distance, dest_lat and CRSElapsedTime are not causes of flight delays.
-    • Linear regression shows no significant relationship with distance, dest_lat and CRSElapsedTime.
+The best time to fly to avoid delays is in June on Thursday and Friday and at 5 am.
+Old planes are not the cause of flight delays.
+No significant changes to airplane flight routes despite an increase in the number of users.
+The main causes of flight delays are Origin_long, Month, Origin_lat while Distance, dest_lat and CRSElapsedTime are not causes of flight delays.
+Linear regression shows no significant relationship with distance, dest_lat and CRSElapsedTime.
 
 
 Recommandation
